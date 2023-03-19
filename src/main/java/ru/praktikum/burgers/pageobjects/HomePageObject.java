@@ -1,3 +1,5 @@
+package ru.praktikum.burgers.pageobjects;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;

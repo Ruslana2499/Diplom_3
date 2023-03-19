@@ -4,6 +4,11 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import ru.praktikum.burgers.common.Constants;
+import ru.praktikum.burgers.pageobjects.HomePageObject;
+import ru.praktikum.burgers.pageobjects.LoginPageObject;
+import ru.praktikum.burgers.pageobjects.RegisterPageObject;
+import ru.praktikum.burgers.pageobjects.RemindPasswordPageObject;
 
 public class LoginTests extends TestsBase {
     private RegisterPageObject registerPageObject = new RegisterPageObject(driver);

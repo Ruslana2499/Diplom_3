@@ -4,6 +4,8 @@ import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import ru.praktikum.burgers.common.Constants;
+import ru.praktikum.burgers.pageobjects.RegisterPageObject;
 
 import java.util.Random;
 

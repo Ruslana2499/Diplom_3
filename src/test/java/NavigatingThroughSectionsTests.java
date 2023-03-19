@@ -2,6 +2,8 @@ import io.qameta.allure.junit4.DisplayName;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import ru.praktikum.burgers.common.Constants;
+import ru.praktikum.burgers.pageobjects.HomePageObject;
 
 public class NavigatingThroughSectionsTests extends TestsBase {
     private HomePageObject homePageObject = new HomePageObject(driver);

@@ -1,3 +1,5 @@
+package ru.praktikum.burgers.common;
+
 public class Constants {
     public static final String HOME_PAGE_URL = "https://stellarburgers.nomoreparties.site/";
     public static final String LOGIN_URL = "https://stellarburgers.nomoreparties.site/login";
